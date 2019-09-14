@@ -1,0 +1,13 @@
+{
+  "name": "cli-tools",
+  "version": "1.0.0",
+  "description": "cli-scripts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Jones",
+  "license": "MIT"
+}
